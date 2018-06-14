@@ -3,9 +3,9 @@ environment:
   nodejs_version: "8"
   # Encrypt sensitive data (https://ci.appveyor.com/tools/encrypt)
   github_access_token:
-    secure: ENCRYPTED_GITHUB_ACCESS_TOKEN
+    secure: -Qdtznojvl3_rKRaI9xybg
   github_email:
-    secure: ENCRYPTED_GITHUB_EMAIL
+    secure: matheuscvalino@gmail.com
 
 # Only run on master branch
 branches:
