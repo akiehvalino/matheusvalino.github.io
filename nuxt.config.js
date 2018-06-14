@@ -5,6 +5,10 @@ const nodeExternals = require('webpack-node-externals')
 module.exports = {
   mode: 'universal',
 
+  router: {
+    base: '/matheusvalino.github.io/'
+  },
+
   /*
   ** Headers of the page
   */
