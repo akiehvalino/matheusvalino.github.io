@@ -6,7 +6,7 @@ module.exports = {
   mode: 'universal',
 
   router: {
-    base: '/matheusvalino.github.io/'
+    base: '/akiehvalino.github.io/'
   },
 
   /*
